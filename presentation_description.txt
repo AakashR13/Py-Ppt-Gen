@@ -1,0 +1,65 @@
+
+Slide 1:
+Layout: Title
+Placeholders: {'Title 18': {'idx': 0, 'type': 'Title 18'}, 'Subtitle 19': {'idx': 1, 'type': 'Subtitle 19'}, 'Picture Placeholder 9': {'idx': 13, 'type': 'Picture Placeholder 9'}}
+Text content: ['Marketing pitch deck', 'Dailan Neal']
+
+Slide 2:
+Layout: Agenda
+Placeholders: {'Title 1': {'idx': 0, 'type': 'Title 1'}, 'Content Placeholder 2': {'idx': 13, 'type': 'Content Placeholder 2'}}
+Text content: ['Agenda', 'About us\nProduct overview\nMarket overview\nGrowth strategy\nSummary']
+
+Slide 3:
+Layout: Section break with subtitle
+Placeholders: {'Title 2': {'idx': 0, 'type': 'Title 2'}, 'Subtitle 3': {'idx': 1, 'type': 'Subtitle 3'}, 'Picture Placeholder 5': {'idx': 13, 'type': 'Picture Placeholder 5'}}
+Text content: ['About us', 'Aiming to revolutionize industries through our forward-thinking solutions']
+
+Slide 4:
+Layout: Section break with subtitle 2
+Placeholders: {'Title 8': {'idx': 0, 'type': 'Title 8'}, 'Subtitle 3': {'idx': 1, 'type': 'Subtitle 3'}, 'Picture Placeholder 7': {'idx': 13, 'type': 'Picture Placeholder 7'}}
+Text content: ['Product overview', 'Combining functionality and user-friendliness, we empower users to streamline operations and boost efficiency']
+
+Slide 5:
+Layout: Introduction
+Placeholders: {'Title 1': {'idx': 0, 'type': 'Title 1'}, 'Picture Placeholder 6': {'idx': 13, 'type': 'Picture Placeholder 6'}, 'Content Placeholder 11': {'idx': 14, 'type': 'Content Placeholder 11'}}
+Text content: ['Product benefits', 'Increased productivity\nSeamless integration\nEnhanced user experience\nScalability for future growth\nUser-friendly learning']
+
+Slide 6:
+Layout: Section break
+Placeholders: {'Title 8': {'idx': 0, 'type': 'Title 8'}, 'Picture Placeholder 11': {'idx': 13, 'type': 'Picture Placeholder 11'}}
+Text content: ['Market overview']
+
+Slide 7:
+Layout: Title, content, and picture
+Placeholders: {'Title 1': {'idx': 0, 'type': 'Title 1'}, 'Picture Placeholder 19': {'idx': 13, 'type': 'Picture Placeholder 19'}, 'Content Placeholder 9': {'idx': 14, 'type': 'Content Placeholder 9'}}
+Text content: ['Market comparison', 'Stands out in market\nInnovative features\nProvides unique solution\nEdge over competitors\nUser-focused design\nPrioritizes user experience']
+
+Slide 8:
+Layout: Two column
+Placeholders: {'Title 5': {'idx': 0, 'type': 'Title 5'}, 'Content Placeholder 2': {'idx': 14, 'type': 'Content Placeholder 2'}, 'Content Placeholder 4': {'idx': 15, 'type': 'Content Placeholder 4'}}
+Text content: ['Competitive landscape', 'Strong market presence\nPositioned as a market leader\nLeveraging a robust infrastructure\nDedicated team of experts\nOutperforming competitors\nGood brand name recognition', 'Need:\nMore agility and adaptability\nStronger competitive edge\nAbility to adapt swiftly\nStay ahead of the curve\nContinuously improve offerings\nIntegrate user feedback']
+
+Slide 9:
+Layout: Two content
+Placeholders: {'Title 1': {'idx': 0, 'type': 'Title 1'}, 'Content Placeholder 2': {'idx': 14, 'type': 'Content Placeholder 2'}, 'Content Placeholder 4': {'idx': 15, 'type': 'Content Placeholder 4'}}
+Text content: ['Growth strategy', 'Expand market reach through strategic partnerships\nEnhance product features based on user feedback\nExplore international market opportunities']
+
+Slide 10:
+Layout: Two content 2
+Placeholders: {'Title 1': {'idx': 0, 'type': 'Title 1'}, 'Content Placeholder 15': {'idx': 14, 'type': 'Content Placeholder 15'}, 'Table Placeholder 2': {'idx': 15, 'type': 'Table Placeholder 2'}}
+Text content: ['Traction', 'Product launch\nSuccessful introduction of our product to market\n10,000 user milestone\nSubstantial user base, indicating growing demand\nStrategic partnership\nExpanding market presence and capabilities']
+
+Slide 11:
+Layout: Title and content
+Placeholders: {'Title 1': {'idx': 0, 'type': 'Title 1'}, 'Table Placeholder 3': {'idx': 1, 'type': 'Table Placeholder 3'}}
+Text content: ['Financials']
+
+Slide 12:
+Layout: Title and two content
+Placeholders: {'Title 13': {'idx': 0, 'type': 'Title 13'}, 'Content Placeholder 14': {'idx': 2, 'type': 'Content Placeholder 14'}, 'Content Placeholder 15': {'idx': 14, 'type': 'Content Placeholder 15'}}
+Text content: ['Summary', 'Strong market positioning\nRobust growth strategy\nInnovative product development\nCommitment to\xa0user satisfaction', 'With this product, Adatum Corporation is positioned for success in the dynamic market.\xa0\nWith a focus on innovation, user experience, and strategic growth, we anticipate reaching new heights in the coming year.\nOur commitment to user satisfaction underscores every aspect of our operations']
+
+Slide 13:
+Layout: Closing
+Placeholders: {'Title 1': {'idx': 0, 'type': 'Title 1'}, 'Content Placeholder 2': {'idx': 1, 'type': 'Content Placeholder 2'}, 'Picture Placeholder 9': {'idx': 13, 'type': 'Picture Placeholder 9'}}
+Text content: ['Thank you', 'Dailan Neal | dailan@adatum.com | www.adatum.com']
